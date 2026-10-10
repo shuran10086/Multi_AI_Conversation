@@ -1,0 +1,90 @@
+Multi_AI_Conversation 非商业开源许可证
+Multi_AI_Conversation Non-Commercial Open Source License
+
+版权所有 © 2026 恕染 (shuran)
+Copyright © 2026 恕染 (shuran)
+
+作者 GitHub / Author GitHub: https://github.com/shuran10086
+项目地址 / Project URL: https://github.com/shuran10086/Multi_AI_Conversation
+
+================================================================================
+中文版本 (Chinese)
+================================================================================
+
+本许可证授予任何人复制、使用、修改和再发布本项目的权利，但须遵守以下全部条款。
+
+一、再发布与二次开发
+任何再发布或二次开发版本必须：
+1. 公开完整源代码；
+2. 保留原作者姓名、项目地址和原许可证；
+3. 明确标注修改内容和修改日期；
+4. 继续采用本许可证。
+
+二、商业使用限制
+禁止将本项目及其二次开发版本用于任何商业用途，包括但不限于：
+1. 销售软件、插件或服务；
+2. 付费 SaaS、托管服务或 API 服务；
+3. 广告、营销、客户交付或其他盈利业务；
+4. 企业内部直接或间接营利用途。
+
+三、商业授权
+如需商业使用，必须事先获得版权所有者的书面授权。
+
+四、免责声明
+本项目按“原样”提供，不附带任何明示或暗示的担保，包括但不限于对适销性、
+特定用途适用性和不侵权的担保。在任何情况下，作者或版权所有者均不对任何索赔、
+损害或其他责任负责，无论是因合同、侵权或其他方式引起的，与本项目或本项目的
+使用或其他交易相关。
+
+五、许可证的接受
+复制、使用、修改或再发布本项目，即表示您已阅读、理解并同意接受本许可证的
+全部条款。若您不同意本许可证的任何条款，则不得使用本项目。
+
+================================================================================
+English Version (英文)
+================================================================================
+
+This License grants any person the right to copy, use, modify, and redistribute
+this project, subject to all of the following terms.
+
+1. Redistribution and Derivative Works
+Any redistributed or derivative version MUST:
+  (1) make its complete source code publicly available;
+  (2) retain the original author's name, the project URL, and this original
+      license;
+  (3) clearly state what was changed and the date of each change;
+  (4) continue to be released under this same license.
+
+2. Non-Commercial Restriction
+This project and any derivative works of it MUST NOT be used for any commercial
+purpose, including but not limited to:
+  (1) selling software, plugins, or services;
+  (2) paid SaaS, hosting services, or API services;
+  (3) advertising, marketing, client deliverables, or other profit-making
+      business;
+  (4) direct or indirect for-profit use within an enterprise.
+
+3. Commercial Authorization
+Any commercial use requires prior written authorization from the copyright
+holder.
+
+4. Disclaimer of Warranty
+This project is provided "AS IS", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and non-infringement. In no event shall the
+author or copyright holder be liable for any claim, damages, or other
+liability, whether in an action of contract, tort, or otherwise, arising from,
+out of, or in connection with the project or the use or other dealings in the
+project.
+
+5. Acceptance of the License
+By copying, using, modifying, or redistributing this project, you acknowledge
+that you have read, understood, and agreed to be bound by all the terms of this
+license. If you do not agree to any of these terms, you may not use this
+project.
+
+================================================================================
+如中英文版本存在歧义，以中文版本为准。
+In case of any discrepancy between the Chinese and English versions, the
+Chinese version shall prevail.
+================================================================================

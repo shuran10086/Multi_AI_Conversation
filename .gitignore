@@ -1,0 +1,9 @@
+# 本地开发辅助与备份，不纳入开源仓库
+插件备份/
+脚本文件/
+
+# 依赖与常见忽略
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
